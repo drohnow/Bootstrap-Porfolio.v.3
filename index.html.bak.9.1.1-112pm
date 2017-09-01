@@ -77,26 +77,18 @@
 
         </div>
          
-      </div>
-
-
-      </div>
-
-    
-
-
-      <div class="row">
-        <div class="col-xs-12 col-md-12 divFooter1"></div>
-      </div>
-
-      <div class="row">
-        <div class="col-xs-12 col-md-12 divFooter2">
-          <p>© copyright 2017 - David Rohnow, Inc.</p>
         </div>
+
+
       </div>
    
+      <div class="row">
+        <div class="col-xs-12 col-md-12" style="background-color: black; height: 10px"></div>
+      </div>
 
     </div>
+
+
 
 
     
